@@ -78,3 +78,10 @@ Membres de l'équipe :
 # IV. Présentation d'un plan d'action concret
 
 Les étapes clés du développement n'ont pas encore été définies.
+
+###
+
+# Contenu du projet
+
+- Front-end Vue.js 3 dans le dossier /eip-front.
+- Back-end TypeScript (Node.js + Express) dans le dossier /eip-back.
